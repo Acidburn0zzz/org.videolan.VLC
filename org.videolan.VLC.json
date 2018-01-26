@@ -920,7 +920,7 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://nightlies.videolan.org/build/source/vlc-3.0.0-20170823-0243-git.tar.xz",
+          "url": "https://nightlies.videolan.org/build/source/vlc-4.0.0-20171130-0243-git.tar.xz",
           "sha256": "ca18b035ef2cc37ead773465465fe1391b94fd20e2d0a4108723aeb1f4346334"
         },
         {
